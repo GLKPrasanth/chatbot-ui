@@ -13,8 +13,11 @@
   },
   "dependencies": {
     "@dqbd/tiktoken": "^1.0.2",
+    "@supabase/supabase-js": "^2.22.0",
     "@tabler/icons-react": "^2.9.0",
+    "common-tags": "^1.8.2",
     "eventsource-parser": "^0.1.0",
+    "gpt3-tokenizer": "^1.1.5",
     "i18next": "^22.4.13",
     "next": "13.2.4",
     "next-i18next": "^13.2.2",
